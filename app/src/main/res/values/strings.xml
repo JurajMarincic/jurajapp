@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Belot</string>
+    <string name="unesi">Unesi</string>
+    <string name="pocni_igru">POČNI IGRU</string>
+    <string name="zbroji">Zbroji</string>
+    <string name="ukupni_bodovi">Ukupan broj bodova</string>
+    <string name="bodovi1">Bodovi prve ekipe</string>
+    <string name="bodovi2">Bodovi druge ekipe</string>
+    <string name="zvanje1">Zvanje prve ekipe</string>
+    <string name="zvanje2">Zvanje druge ekipe</string>
+    <string name="novaigra">Novi unos</string>
+    <string name="tim1">Tim 1</string>
+    <string name="tim2">Tim 2</string>
+    <string name="bodovi">Bodovi</string>
+    <string name="restart">Restart</string>
+    <string name="ukupnirez">Ukupan rezultat</string>
+    <string name="partijarez">Rezultat trenutne partije</string>
+</resources>
